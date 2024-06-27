@@ -1,1 +1,1 @@
-Quick reference guide to understand input and output files of CPMD. Main sections of a typical input file and major keywords are oulined and explained, along with the main output files produced by the code.
+Quick reference guide for input and output files of CPMD. Main sections of a typical input file and major keywords are outlined and explained, along with the main output files produced by the code and the meaning of their numerical content.
